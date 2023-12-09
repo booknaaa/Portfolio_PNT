@@ -1,0 +1,4 @@
+# Ignore all .mp4 files in the public/images/ directory
+public/images/*.mp4
+
+node_modules
